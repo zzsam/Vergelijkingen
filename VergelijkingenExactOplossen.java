@@ -52,7 +52,7 @@ public class VergelijkingenExactOplossen {
 		BScan[2] = 1.0;	
 		return BScan;
 	}
-	// hoeveel groepen een loga ritme hebben
+	// hoeveel groepen een logaritme hebben
 	public static int timesLog( boolean[] A){ // Tellen hoeveel groepen er van de doorgegeven groepen bruikbaar zijn
 		int i= A.length-1;
 		int aantal=0;
